@@ -7,7 +7,7 @@ Integrate [keycloak](https://www.keycloak.org/) with [Nest](https://nestjs.com/)
 This module provide decorators to intercept keycloak tokens
 
 ```bash
-$ npm i --save nest-keycloak keycloak-connect
+$ npm i --save ib-nest-keycloak keycloak-connect
 ```
 
 ```ts
